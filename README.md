@@ -1,7 +1,7 @@
 # Hi there, i'm Cami!  👋
 
 <p align="center">
-  <img src="https://co.pinterest.com/pin/231794712066978822/" alt="Vista previa" width="200"/>
+  <img src="https://i.pinimg.com/736x/d1/ca/23/d1ca2368f80d4cc04789697e6a242c59.jpg" alt="Vista previa" width="200"/>
 </p>
 
 - 👀 I’m interested in ...
