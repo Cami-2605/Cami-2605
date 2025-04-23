@@ -1,7 +1,7 @@
 # Hi there, i'm Cami!  👋
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/d1/ca/23/d1ca2368f80d4cc04789697e6a242c59.jpg" alt="Banner" width="1280" height="400"/>
+  <img src="https://i.pinimg.com/736x/d1/ca/23/d1ca2368f80d4cc04789697e6a242c59.jpg" alt="Banner" width="1280" height="300"/>
 </p>
 
 - 👀 I’m interested in ...
