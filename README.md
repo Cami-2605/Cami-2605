@@ -15,8 +15,10 @@
 </p>
 Systems and computer engineer currently in training, I have experience managing technology projects. Passionate about innovation and collaboration, I am looking for opportunities to expand my knowledge and skills both personally and professionally. I adapt easily to new technologies and place the highest priority on quality.
 
+
 - Always looking to improve my technical and soft skills. 🌱
 - Committed to continuous growth and learning. 🌱
 - Open to collaborative projects and team learning experiences. 🌱
 - Passionate about learning how things work under the hood. 🌱
 - Eager to learn from real-world development experiences. 🌱
+- Believe in learning through collaboration and feedback. 🌱
