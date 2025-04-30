@@ -34,9 +34,15 @@ Systems and computer engineer currently in training, I have experience managing 
 
 ---
 #### Stats 😾
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cami-2605&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600)
+
 [![Top Langs](https://github-readme-stats-diegoafloresq-uqvirtualeds-projects.vercel.app/api/top-langs/?username=Cami-2605&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/Cami-2605)
 
+</div>
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-rosero-b77b36233/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cami-2605)
