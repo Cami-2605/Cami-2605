@@ -9,4 +9,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cami-2605)
 
 ### About me 😼
+
+<p align="left">
+  <img src="https://i.pinimg.com/736x/52/3d/6c/523d6c8f2e96d3bb439764fbb24f93a7.jpg" align="right" width="150">
+</p>
+
 Systems and computer engineer currently in training, I have experience managing technology projects. Passionate about innovation and collaboration, I am looking for opportunities to expand my knowledge and skills both personally and professionally. I adapt easily to new technologies and place the highest priority on quality.
