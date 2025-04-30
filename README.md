@@ -14,4 +14,5 @@
   <img src="https://i.pinimg.com/736x/52/3d/6c/523d6c8f2e96d3bb439764fbb24f93a7.jpg" align="right" width="300">
 </p>
 Systems and computer engineer currently in training, I have experience managing technology projects. Passionate about innovation and collaboration, I am looking for opportunities to expand my knowledge and skills both personally and professionally. I adapt easily to new technologies and place the highest priority on quality.
-- jwkdshadkjqwhd
+
+- kj3ruhiu3hp3ei13
