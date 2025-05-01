@@ -13,14 +13,16 @@
 <p align="justify">
   <img src="https://i.pinimg.com/736x/52/3d/6c/523d6c8f2e96d3bb439764fbb24f93a7.jpg" align="right" width="300">
 </p>
-Systems and computer engineer currently in training, I have experience managing technology projects. Passionate about innovation and collaboration, I am looking for opportunities to expand my knowledge and skills both personally and professionally. I adapt easily to new technologies and place the highest priority on quality.
+I’m a Systems and Computing Engineering student with experience managing technology projects. I'm passionate about innovation and collaboration, and I’m constantly seeking opportunities to grow both personally and professionally.
+I adapt quickly to new technologies and always prioritize quality.
+Here are a few things that define me:
 
 - Always looking to improve my technical and soft skills. 🌱
-- Committed to continuous growth and learning. 🌱
-- Open to collaborative projects and team learning experiences. 🌱
-- Passionate about learning how things work under the hood. 🌱
+- Committed to continuous learning and personal growth. 🌱
+- Open to collaborative projects and team-based learning. 🌱
+- Curious about how things work under the hood. 🌱
 - Eager to learn from real-world development experiences. 🌱
-- Believe in learning through collaboration and feedback. 🌱
+- A strong believer in learning through collaboration and feedback. 🌱
 - Always exploring new tools, languages, and frameworks. 🌱
 
 ---
@@ -47,7 +49,7 @@ Systems and computer engineer currently in training, I have experience managing 
 </div>
 
 ---
-##### Conect with me 😸
+##### Connect with me 😸
 
 <div align="center">
 
